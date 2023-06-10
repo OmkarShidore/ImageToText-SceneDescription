@@ -1,0 +1,5 @@
+Pillow
+gradio
+pytorch
+bitsandbytes
+accelerate
